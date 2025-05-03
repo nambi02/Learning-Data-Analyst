@@ -1,60 +1,37 @@
 # Sales Data Analysis Project
 
-## Project Overview
+This is a practice project for learning Data Analyst skills using Python.  
+The dataset contains fictional sales data from several cities and products.
 
-This analysis was conducted to understand sales performance based on products, cities, and daily trends using a fictional sales dataset.
+## 📚 Project Details
+- **Language:** Python
+- **Libraries Used:** pandas, matplotlib, seaborn
+- **Tools:** Jupyter Notebook, Visual Studio Code
 
-## Dataset
+## 📊 Project Activities
+- Data Cleaning:
+  - Checking and handling missing values
+  - Checking and removing duplicate data
+- Exploratory Data Analysis (EDA):
+  - Statistical summary
+  - Aggregating sales data by product and city
+- Data Visualization:
+  - Bar charts for product sales
+  - Bar charts for city sales
+- Insights and Recommendations
 
-* File Name: `sales_data.csv`
-* Columns:
+## 📈 Example Visualizations
+- Total Sales per Product
+- Total Sales per City
 
-  * Order Date
-  * City
-  * Product
-  * Quantity
-  * Unit Price
-  * Total Sales
+## ✍️ Author
+- **Name:** Muhammad Syarip Qorni
+- **GitHub:** [nambi02](https://github.com/nambi02)
 
-## Tools & Libraries
+---
 
-* Python 3
-* Pandas
-* Matplotlib
-* Seaborn
-
-## Analysis Performed
-
-1. **Data Cleaning**:
-
-   * Created a new column `Total Sales` from `Quantity * Unit Price`.
-2. **Product Analysis**:
-
-   * Identified the product with the highest total sales.
-3. **City Analysis**:
-
-   * Identified the city with the highest total sales.
-4. **Sales Trend**:
-
-   * Created a daily sales trend graph.
-
-## Key Findings
-
-* **Top-selling product**: Laptop
-* **City with the highest sales**: Jakarta
-* **Additional insight**: A significant spike in sales occurred on January 10, 2024.
-
-## How to Run This Project
-
-1. Ensure Python 3 is installed.
-2. Install the required libraries:
-
-   ```bash
-   pip install pandas matplotlib seaborn
-   ```
-3. Run the `analysis.ipynb` notebook using Jupyter Notebook.
-
-## Author
-
-Muhammad Syarip Qorni
-[GitHub Profile](https://github.com/nambi02)
+## 🚀 How to Run
+1. Clone this repository
+2. Install required libraries: `pip install pandas matplotlib seaborn`
+3. Open `analysis.ipynb` in Jupyter Notebook or Visual Studio Code
+4. Run all cells
