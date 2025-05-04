@@ -20,12 +20,15 @@ The dataset contains fictional sales data from several cities and products.
   - Statistical summary
   - Aggregating sales data by product and city
   - Aggregating sales data by month and day
+  - Identifying top products and top cities by total sales
 - Data Visualization:
   - Bar charts for product sales
   - Bar charts for city sales
   - Bar charts for monthly and daily sales
 - Insights and Recommendations
-
+  - Focus on top-performing products and cities for business growth
+  - Identify potential areas for marketing and sales improvement
+  
 ## 📈 Example Visualizations
 - Total Sales per Product
 - Total Sales per City
