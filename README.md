@@ -12,17 +12,25 @@ The dataset contains fictional sales data from several cities and products.
 - Data Cleaning:
   - Checking and handling missing values
   - Checking and removing duplicate data
+- Data Transformation:
+  - Creating Total Sales column
+  - Converting Order Date to datetime format
+  - Extracting Year, Month, and Day column
 - Exploratory Data Analysis (EDA):
   - Statistical summary
   - Aggregating sales data by product and city
+  - Aggregating sales data by month and day
 - Data Visualization:
   - Bar charts for product sales
   - Bar charts for city sales
+  - Bar charts for monthly and daily sales
 - Insights and Recommendations
 
 ## 📈 Example Visualizations
 - Total Sales per Product
 - Total Sales per City
+- Total Sales per Month
+- Total Sales per Day
 
 ## ✍️ Author
 - **Name:** Muhammad Syarip Qorni
