@@ -25,15 +25,17 @@ The dataset contains fictional sales data from several cities and products.
   - Bar charts for product sales
   - Bar charts for city sales
   - Bar charts for monthly and daily sales
+  - Simple dashboard creation using multiple subplots in Matplotlib
 - Insights and Recommendations
   - Focus on top-performing products and cities for business growth
   - Identify potential areas for marketing and sales improvement
-  
+  - Saving Dashboard into png format with customizable dpi
 ## 📈 Example Visualizations
 - Total Sales per Product
 - Total Sales per City
 - Total Sales per Month
 - Total Sales per Day
+- Simple Dashboard (3 charts in one figure)
 
 ## ✍️ Author
 - **Name:** Muhammad Syarip Qorni
